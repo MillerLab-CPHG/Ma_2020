@@ -1,4 +1,4 @@
-# Enhanced_scRNA-seq_Workflow used in Ma et at. 2020
+# Enhanced scRNA-seq Workflow used in Ma et at. 2020
 ## Single-cell RNA-seq analysis of human coronary arteries using an enhanced workflow reveals SMC transitions and candidate drug targets
 Comprehensive single-cell RNA seq analysis workflow: automatic cell labeling to drug targeting 
 Wei Feng Ma, Chani J. Hodonsky, Adam W. Turner, Doris Wong, Yipei Song, Nelson Barrientos, Clint L. Miller
