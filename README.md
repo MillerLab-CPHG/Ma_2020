@@ -12,3 +12,8 @@ This workflow is divided into TWO parts:
 2) ligand-receptor profiling in scTalk, drug target analysis in DGIdb
 ![](images/scRNA_workflow.png)
 
+## Data Import
+If you are planning to use this pipeline, we assume that the data is coming from cellranger or from GEO as a data matrix. Some data sources come as .h5 or as a seurat object (.rds) that you can directly import, and you can skip this step. 
+
+## Support
+Raise an issue in our github and we will get back to you ASAP!
