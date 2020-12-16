@@ -20,7 +20,7 @@ This workflow is divided into TWO parts:
 If you are planning to use this pipeline, we assume that the data is coming from cellranger or from GEO as a data matrix. Some data sources come as .h5 (optimized python files) or as a seurat object (.rds) that you can directly import, and you can skip this step. NIH has an excellent guide on data format [here](https://med.virginia.edu/faculty/faculty-listing/wap3g/).
 
 ## Getting Started
-Copy the git by cloning or by downloading Step 1 and Step 2 in the scripts. Step 3 is docker based, and the steps are outlined in a text file. Step 4 is optional and did not produce any core results in this publication. 
+Copy the git by cloning or by downloading Step 1 and Step 2 in the scripts. Step 3 is docker based, and the steps are outlined in a text file. Step 4 is optional and did not produce any core results in this publication. 'TIP' files are required for the 'scTALK' package. 
 
 First make sure your R 4.0 or above (recommend running as Rstudio) contains the required packages. e.g. [Seurat](https://satijalab.org/seurat/install.html), [Monocle3](https://cole-trapnell-lab.github.io/monocle3/docs/introduction/), and [scTalk](https://github.com/VCCRI/scTalk). Edit your working directory and load your data accordingly. Monocle3 will pop up to ask if you want to subset any datapoints. We recommend running the script line-by-line to maximize discovery and making sure that the script is individualized for you data!
 
