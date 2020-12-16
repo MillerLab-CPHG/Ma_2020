@@ -10,10 +10,15 @@ University of Virginia, Center for Public Health Genomics
 
 ## Overview
 This workflow is divided into several parts:
+
 Part1) data import into Seurat, automated cell labeling in 'singleR', Trajectory analysis in 'Monocle3'
+
 Part2) alternative steps to benchmark tools e.g. 'scCatch' (singleR alternative)
+
 Part2) ligand-receptor profiling in 'scTalk', drug target analysis in DGIdb
+
 Part4) 'dynverse' (tool to bench other trajectory inference method other than monocle3)
+
 Part5) using a docker-based tool 'DrugThatGene' to search additional drug databases (e.g. Pharos, OMIM, etc.)
 ![](images/scRNA_workflow.png)
 
