@@ -25,6 +25,8 @@ Part5) using a docker-based tool 'DrugThatGene' to search additional drug databa
 ## Data Import
 If you are planning to use this pipeline, we assume that the data is coming from cellranger or from GEO as a data matrix. Some data sources come as .h5 (optimized python files) or as a seurat object (.rds) that you can directly import, and you can skip this step. NIH has an excellent guide on data format [here](https://med.virginia.edu/faculty/faculty-listing/wap3g/).
 
+The data used in our publication can be found [here](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE131780&format=file).
+
 ## Getting Started
 Copy the git by cloning or by downloading Step 1 and Step 2 in the scripts. Step 3 is docker based, and the steps are outlined in a text file. Step 4 is optional and did not produce any core results in this publication. 'TIP' files are required for the 'scTALK' package. 
 
