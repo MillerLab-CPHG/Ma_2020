@@ -15,7 +15,7 @@ Part1) data import into Seurat, automated cell labeling in 'singleR', Trajectory
 
 Part2) alternative steps to benchmark tools e.g. 'scCatch' (singleR alternative)
 
-Part2) ligand-receptor profiling in 'scTalk', drug target analysis in DGIdb
+Part3) ligand-receptor profiling in 'scTalk', drug target analysis in DGIdb
 
 Part4) 'dynverse' (tool to bench other trajectory inference method other than monocle3)
 
